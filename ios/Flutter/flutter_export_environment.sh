@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/sarvex/Library/Android/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/sarvex/Workspace/layout"
-export "FLUTTER_TARGET=/Users/sarvex/Workspace/layout/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/sarvex/Workspace/flutter_tutorial"
+export "FLUTTER_TARGET=/Users/sarvex/Workspace/flutter_tutorial/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/sarvex/Library/Android/flutter/bin/cache/artifacts/engine/ios"
